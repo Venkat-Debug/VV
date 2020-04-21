@@ -1,0 +1,129 @@
+body{
+  font-family: "Montserrat";
+}
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+}
+h1{
+font-family: 'Montserrat-Black', sans-serif;
+font-weight: 900;
+font-size: 3rem;
+line-height: 1.5;
+}
+h2{
+  font-family: 'Montserrat-Black';
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h3{
+  font-family: 'Montserrat-Black', sans-serif;
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+p{
+  color: #8f8f8f;
+  text-align: center;
+}
+.navbar{
+  padding: 0 0 4.5rem;
+
+}
+  /* navbar styles */
+.nav-item{
+  padding: 0 18px;
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+.nav-link{
+  font-family: "Montserrat-Light";
+  font-size: 1.2rem;
+}
+/* download css styles */
+.download-btn{
+  margin: 5% 3% 5% 0;
+}
+/* title image styles */
+.title-image{
+ width: 60%;
+ transform: rotate(25deg);
+}
+/* icon styles */
+#features{
+  padding: 7% 15%;
+}
+.feature-box{
+  text-align: center;
+  padding: 4.5%;
+}
+.icon{
+  color: #ef8172;
+  margin-bottom: 5%;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+
+/* testimonials stylesheets */
+
+#testimonials{
+  background-color: #ef8172;
+  color: #fff;
+  text-align: center;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.testimonial-image{
+  width:10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding: 3%;
+}
+.press-icon{
+  width: 15%;
+  margin: 20px 20px 30px;
+}
+        /* cards stylesheets */
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.primary-icon{
+  padding: 3% 2%;
+}
+/* .fas{
+  color: #ef8172;
+  display: block;
+  width:22%;
+  height: auto;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 5%;
+}
+.fas:hover{
+  color: #ff4c68;
+}
+.line{
+  margin-left: 30%;
+}
+.middle-con{
+  text-align: center;
+  margin-left:   10%;
+  margin-right: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.para-line{
+  margin-bottom: 5%;
+} */
+/* font-family: 'Montserrat', sans-serif; */
+/* font-family: 'Ubuntu', sans-serif; */
